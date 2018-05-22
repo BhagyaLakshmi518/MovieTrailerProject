@@ -1,7 +1,7 @@
 # MovieTrailerProject
 #This project is for people who are intrested in watching movie trailers.
 #My website consits of different movie posters and on clicking on them we get the youtube trailer on the same page itself. 
-#I craeted this website using three python files named as media.py,entertainment_center.py,fresh_tomatoes.py.
+#I created this website using three python files named as media.py,entertainment_center.py,fresh_tomatoes.py.
 #My website runs by running the entertainment_center.py page.
 #In entertainment_center.py I pass the arguments like movie_title,movie_poster and youtube url respectively to the "Movie" class which is present in the media.py file.
 #We store the values of different movies in different variables.
